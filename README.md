@@ -18,5 +18,9 @@ This application generates a Team profile based on user Input and creates a html
 
 https://watch.screencastify.com/v/xNn0ByRY1wH3ogbpIUeX
 
+# Testcase run video
+
+https://watch.screencastify.com/v/2eMiK5plyxeC69TKfQIf
+
 # Contribution
 jagydas
